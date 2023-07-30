@@ -1,0 +1,1 @@
+export const apiRequest = (movies) => ({ type: 'API_REQUEST', payload: movies });
